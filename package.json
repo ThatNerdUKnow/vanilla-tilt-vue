@@ -1,7 +1,15 @@
 {
   "name": "vanilla-tilt-vue",
   "version": "0.1.0",
-  "private": true,
+  "description": "A Vuejs wrapper for vanilla-tilt",
+  "main": "src/components/tilt.vue",
+  "keywords": [
+    "Vue",
+    "tilt.js",
+    "tilt",
+    "vanilla-tilt"
+  ],
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
