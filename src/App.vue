@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     
-    <Tilt :options="this.options">
+    <Tilt :options="this.options" parallax="true">
 
       <div class="Background">
         <img alt="Vue logo" src="./assets/logo.png">
@@ -44,6 +44,6 @@ export default {
 }
 
 .pop{
-  transform: translateZ(20px)
+  transform: translateZ(100px)
 }
 </style>
