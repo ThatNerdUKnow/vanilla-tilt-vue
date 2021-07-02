@@ -1,6 +1,6 @@
 {
   "name": "vanilla-tilt-vue",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Vuejs wrapper for vanilla-tilt",
   "main": "src/components/tilt.vue",
   "keywords": [
