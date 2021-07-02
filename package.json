@@ -1,6 +1,6 @@
 {
   "name": "vanilla-tilt-vue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Vuejs wrapper for vanilla-tilt",
   "main": "src/components/tilt.vue",
   "keywords": [
@@ -9,10 +9,13 @@
     "tilt",
     "vanilla-tilt"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Withenex/vanilla-tilt-vue"
+  },
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

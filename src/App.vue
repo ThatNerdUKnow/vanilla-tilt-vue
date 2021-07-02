@@ -23,7 +23,7 @@ export default {
   },
   data: function(){
     return {
-      options: {glare: true}
+      options: {glare: true, gyroscope: true}
     }
   }
 }
