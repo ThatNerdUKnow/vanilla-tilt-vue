@@ -6,7 +6,6 @@
 </template>
 
 <script>
-import 'vanilla-tilt'
 import VanillaTilt from 'vanilla-tilt';
 
 export default {
