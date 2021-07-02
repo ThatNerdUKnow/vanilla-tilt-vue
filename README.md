@@ -21,7 +21,7 @@
 
   
 
-```
+```js
 
 Import Tilt from 'vanilla-tilt-vue'
 
@@ -29,7 +29,7 @@ Import Tilt from 'vanilla-tilt-vue'
 
 And inside your template...
 
-```
+```html
 
 <template>
 
@@ -47,7 +47,7 @@ The options prop must be a JavaScript object. The options available are identica
 
   
 
-```
+```js
 
 {
 
@@ -99,7 +99,7 @@ gyroscopeMaxAngleY: 45, // This is the top limit of the device angle on Y axis, 
 
 ```
 To enable the parallax effect simply use
-```
+```html
 <Tilt parallax="true">
 <div>
 	Your content here
